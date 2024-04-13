@@ -29,7 +29,6 @@ class _StopWatchScreenState extends State<StopWatchScreen> {
   void _clickButton() {
     setState(() {
       /// business logic
-      ///
       _isRunning = !_isRunning;
       if (_isRunning) {
         _start();

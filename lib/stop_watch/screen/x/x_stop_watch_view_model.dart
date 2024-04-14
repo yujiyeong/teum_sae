@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 
-class StopWatchViewModel with ChangeNotifier {
+class XStopWatchViewModel with ChangeNotifier {
   Timer? _timer;
   int _time = 0;
   bool _isRunning = false;

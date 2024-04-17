@@ -1,8 +1,8 @@
-# teum_sae
+# 틈새 (teum_sae)
 A collection of widgets that fill the screen.
 </br>
 
-## 틈새 개인정보처리방침
+## 틈새(teum_sae) 개인정보처리방침
 ### 개인정보 수집
 본 서비스는 어떠한 개인정보도 수집하지 않습니다
 

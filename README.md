@@ -1,16 +1,15 @@
 # teum_sae
-
 A collection of widgets that fill the screen.
+</br>
 
-## Getting Started
+## 틈새 개인정보처리방침
+### 개인정보 수집
+본 서비스는 어떠한 개인정보도 수집하지 않습니다
 
-This project is a starting point for a Flutter application.
+### 책임자 연락처
+개인정보처리방침과 관련하여 궁금하신 점이 있으시면 언제든 연락 주십시오.
 
-A few resources to get you started if this is your first Flutter project:
+📱 유지영 yu.jiyeong.kr@gmail.com
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 최종 개인정보처리방침 수정일
+2024년 04월 17일
